@@ -1,0 +1,57 @@
+body {
+    background-color: wheat;
+}
+header {
+    width: 100%;
+    height: 130px;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color:lightsalmon;
+    border-bottom: 1px solid black;
+}
+article {
+    width: 100%;
+    height: 555px;
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: cornsilk;
+}
+footer {
+    width: 100%;
+    height: 20px;
+    box-sizing: border-box;
+    padding: 2px;
+    background-color: dimgray;
+}
+.card {
+    background-color: aquamarine;
+    width: 100px;
+    margin: 1.5%;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 15px;
+    border: 1px solid black;
+    float: left;
+}
+.card-image {
+    width: 100%;
+}
+.card-title {
+    width: 100%;
+}
+.card-button {
+    background-color:aqua;
+    border: 1px solid black;
+    width: 100%;
+    padding: 10px;
+}
+#logotext {
+    float: left;
+    height: 100%;
+}
+#logoimg {
+    float: left
+}
+.post-image {
+    height:100px;
+}
